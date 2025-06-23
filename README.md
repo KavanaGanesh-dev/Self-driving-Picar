@@ -1,3 +1,7 @@
+## Block diagram show casing the Mapping, Object Detection and Obstacle avoidance in the flowdiagram
+
+![alt text](image.png)
+
 ## PiCar-4WD 
 PiCar-4WD 
 
